@@ -37,7 +37,7 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class gplus extends HttpServlet {
     
-    private static final String CLIENT_ID = "909745366730-29qp7trmi8m6iljok6f0iqpg55q0n903.apps.googleusercontent.com";
+    private static final String CLIENT_ID = "XXXX.apps.googleusercontent.com";
     private static final String CLIENT_SECRET = "nP7oww0xETy0f-bpCvqljKwc";
     private static final String APPLICATION_NAME = "Java-OAuth-example  ";
     private static final HttpTransport TRANSPORT = new NetHttpTransport();
